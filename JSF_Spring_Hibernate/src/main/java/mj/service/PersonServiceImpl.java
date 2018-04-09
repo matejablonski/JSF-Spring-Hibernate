@@ -1,4 +1,4 @@
-package com.journaldev.springhibernate.service;
+package mj.service;
 
 import java.util.List;
 
@@ -8,8 +8,8 @@ import javax.faces.bean.SessionScoped;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.journaldev.springhibernate.dao.PersonDAO;
-import com.journaldev.springhibernate.model.Person;
+import mj.dao.PersonDAO;
+import mj.model.Person;
 
 @Service
 @ManagedBean(name="personService")

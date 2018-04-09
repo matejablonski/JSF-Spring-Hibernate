@@ -1,8 +1,8 @@
-package com.journaldev.springhibernate.service;
+package mj.service;
 
 import java.util.List;
 
-import com.journaldev.springhibernate.model.Person;
+import mj.model.Person;
  
 public interface PersonService {
  

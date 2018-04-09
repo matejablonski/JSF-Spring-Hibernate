@@ -1,8 +1,8 @@
-package com.journaldev.springhibernate.dao;
+package mj.dao;
 
 import java.util.List;
 
-import com.journaldev.springhibernate.model.Person;
+import mj.model.Person;
  
 public interface PersonDAO {
  
